@@ -1,5 +1,4 @@
-This code is for paper "Self-Attention Empowered Graph Convolutional
-Network for Structure Learning and Node Embedding"
+This code is for paper "Self-Attention Empowered Graph Convolutional Network for Structure Learning and Node Embedding"
 
 # cora 
 Train_Vain_Test: 48%_32%_20%
